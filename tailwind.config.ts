@@ -32,6 +32,14 @@ export default {
 					DEFAULT: 'hsl(var(--secondary))',
 					foreground: 'hsl(var(--secondary-foreground))'
 				},
+				adventure: {
+					green: '#228B22',
+					brown: '#8B4513',
+					orange: '#FF6B35',
+					slate: '#2F4F4F',
+					beige: '#FF6B35',
+					earth: '#555DC'
+				},
 				destructive: {
 					DEFAULT: 'hsl(var(--destructive))',
 					foreground: 'hsl(var(--destructive-foreground))'
